@@ -7,7 +7,7 @@ const blockColors = {};
 const primaryColors = [
   "#d32f2f",
   "#1976d2",
-  "#FFE878"
+  "#d905f5"
 ];
 let colorIndex = 0;
 
@@ -43,7 +43,7 @@ window.addEventListener("load", function () {
 
   map = new google.maps.Map(document.getElementById("map"), {
     zoom: 10,
-    center: { lat: 20.97, lng: 83.53 },
+    center: { lat: 20.607573, lng: 83.085528 },
     gestureHandling: "greedy",
     fullscreenControl: false,
     mapTypeControl: false,
