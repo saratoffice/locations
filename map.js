@@ -42,7 +42,7 @@ function linePin(color) {
 window.addEventListener("load", function () {
 
   map = new google.maps.Map(document.getElementById("map"), {
-    zoom: 10,
+    zoom: 11,
     center: { lat: 20.607573, lng: 83.085528 },
     gestureHandling: "greedy",
     fullscreenControl: false,
