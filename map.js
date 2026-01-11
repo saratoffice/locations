@@ -7,7 +7,7 @@ const blockColors = {};
 const primaryColors = [
   "#d32f2f",
   "#1976d2",
-  "#388e3c"
+  "#E90272"
 ];
 let colorIndex = 0;
 
