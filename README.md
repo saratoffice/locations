@@ -1,3 +1,4 @@
+The googlesheet is saratoffice.in@gmail.com and the link is https://docs.google.com/spreadsheets/d/1HI5Wjjwo5OObDaS4W7QaOVc_RcqgREu8pHEQxSjYhUg/edit?gid=0#gid=0
 # Interactive Work Place Location Map (Google Maps + Divi)
 
 This project provides an **interactive Google Maps-based location map** for displaying multiple work places such as **PPCs, Rice Mills, FPS, and Godowns**.
